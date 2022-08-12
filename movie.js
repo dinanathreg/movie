@@ -31,6 +31,18 @@ export default[
     movie_link:"",    
   },
   {
+    id:15,
+    movie_name:"",
+    movie_thumnail:"",
+    movie_link:"",    
+  },
+  {
+    id:14,
+    movie_name:"Spider-Man: Far from Home 2019",
+    movie_thumnail:"https://media.comicbook.com/2019/08/spiderman-1185098.jpeg?auto=webp&width=500&height=738&crop=500:738,smart",
+    movie_link:"https://new1.gdtot.sbs/file/4178108979",    
+  },
+  {
     id:13,
     movie_name:"Spider-Man: Homecoming 2017",
     movie_thumnail:"https://pics.filmaffinity.com/Spider_Man_Homecoming-336093112-large.jpg",
