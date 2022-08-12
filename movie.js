@@ -7,10 +7,52 @@ export default[
     movie_link:"",    
   },
   {
-    id:5,
+    id:,
     movie_name:"",
     movie_thumnail:"",
     movie_link:"",    
+  },
+  {
+    id:,
+    movie_name:"",
+    movie_thumnail:"",
+    movie_link:"",    
+  },
+  {
+    id:,
+    movie_name:"",
+    movie_thumnail:"",
+    movie_link:"",    
+  },
+  {
+    id:,
+    movie_name:"",
+    movie_thumnail:"",
+    movie_link:"",    
+  },
+  {
+    id:,
+    movie_name:"",
+    movie_thumnail:"",
+    movie_link:"",    
+  },
+  {
+    id:,
+    movie_name:"",
+    movie_thumnail:"",
+    movie_link:"",    
+  },
+  {
+    id:6,
+    movie_name:"thor 1",
+    movie_thumnail:"",
+    movie_link:"",    
+  },
+  {
+    id:5,
+    movie_name:"iron man 3",
+    movie_thumnail:"https://collider.com/wp-content/uploads/iron-man-3-international-poster1.jpg",
+    movie_link:"https://new1.gdtot.sbs/file/8432373585",    
   },
   {
     id:4,
