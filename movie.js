@@ -6,24 +6,55 @@ export default[
     movie_thumnail:"",
     movie_link:"",    
   },
-  
- {
+  {
     id:,
     movie_name:"",
     movie_thumnail:"",
     movie_link:"",    
   },
-   {
+  v
+  {
     id:,
     movie_name:"",
     movie_thumnail:"",
     movie_link:"",    
+  },
+    {
+    id:,
+    movie_name:"",
+    movie_thumnail:"",
+    movie_link:"",    
+  },
+    {
+    id:,
+    movie_name:"",
+    movie_thumnail:"",
+    movie_link:"",    
+  },
+    {
+    id:34,
+    movie_name:"Holiday 2014",
+    movie_thumnail:"https://static-koimoi.akamaized.net/wp-content/new-galleries/2014/04/check-out-brand-new-posters-of-holiday-new-horizontal-size-image_0.jpg",
+    movie_link:"https://new1.gdtot.sbs/file/1497955729",    
+  },
+  
+ {
+    id:33,
+    movie_name:"Singham Returns 2014",
+    movie_thumnail:"https://upload.wikimedia.org/wikipedia/en/8/83/Singham_Returns_Poster.jpg",
+    movie_link:"https://new1.gdtot.sbs/file/2594452863",    
+  },
+   {
+    id:32,
+    movie_name:"Singham 2011",
+    movie_thumnail:"https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Singham_%282011_Hindi_film%29_Theatrical_poster.jpg/220px-Singham_%282011_Hindi_film%29_Theatrical_poster.jpg",
+    movie_link:"https://new1.gdtot.sbs/file/2649125723",    
   },
    {
     id:31,
-    movie_name:"",
-    movie_thumnail:"",
-    movie_link:"",    
+    movie_name:"2.0 Robot 2 – 2018",
+    movie_thumnail:"https://m.media-amazon.com/images/M/MV5BNGRlNGE5NjYtNTllNy00YWMyLTkyYjctMTIwOTZmNGIyZWU4XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg",
+    movie_link:"https://new1.gdtot.sbs/file/3954363879",    
   },
    {
     id:30,
