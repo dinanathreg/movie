@@ -6,17 +6,84 @@ export default[
     movie_thumnail:"",
     movie_link:"",    
   },
-  {
+  
+ {
     id:,
     movie_name:"",
     movie_thumnail:"",
     movie_link:"",    
   },
+   {
+    id:,
+    movie_name:"",
+    movie_thumnail:"",
+    movie_link:"",    
+  },
+   {
+    id:,
+    movie_name:"",
+    movie_thumnail:"",
+    movie_link:"",    
+  },
+   {
+    id:,
+    movie_name:"",
+    movie_thumnail:"",
+    movie_link:"",    
+  },
+   {
+    id:,
+    movie_name:"",
+    movie_thumnail:"",
+    movie_link:"",    
+  },
+   {
+    id:,
+    movie_name:"",
+    movie_thumnail:"",
+    movie_link:"",    
+  },
+   {
+    id:,
+    movie_name:"",
+    movie_thumnail:"",
+    movie_link:"",    
+  },
+   {
+    id:,
+    movie_name:"",
+    movie_thumnail:"",
+    movie_link:"",    
+  },
+   {
+    id:,
+    movie_name:"",
+    movie_thumnail:"",
+    movie_link:"",    
+  },
+   {
+    id:24,
+    movie_name:"Baahubali 2",
+    movie_thumnail:"https://www.pinkvilla.com/imageresize/baahubali.png?width=752&format=webp&t=pvorg",
+    movie_link:"https://new1.gdtot.sbs/file/3108635195",    
+  },
+   {
+    id:23,
+    movie_name:"Baahubali: The Beginning 2015",
+    movie_thumnail:"https://c8.alamy.com/comp/J30B3J/baahubali-the-beginning-aka-bahubali-the-beginning-poster-from-left-J30B3J.jpg",
+    movie_link:"https://new1.gdtot.sbs/file/1484508384",    
+  },
+  {
+    id:22,
+    movie_name:"dj",
+    movie_thumnail:"https://i2.cinestaan.com/image-bank/1500-1500/100001-101000/100888.jpg",
+    movie_link:"https://new1.gdtot.sbs/file/1262748928",    
+  },
   {
     id:21,
     movie_name:"RRR Rise Roar Revolt 2022",
     movie_thumnail:"https://stat2.bollywoodhungama.in/wp-content/uploads/2019/03/RRR-2022.jpeg",
-    movie_link:"",    
+    movie_link:"https://new1.gdtot.sbs/file/1796052078",    
   },
   {
     id:20,
