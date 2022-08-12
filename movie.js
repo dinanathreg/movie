@@ -7,10 +7,40 @@ export default[
     movie_link:"",    
   },
   {
-    id:12,
+    id:,
     movie_name:"",
     movie_thumnail:"",
     movie_link:"",    
+  },
+  {
+    id:,
+    movie_name:"",
+    movie_thumnail:"",
+    movie_link:"",    
+  },
+  {
+    id:,
+    movie_name:"",
+    movie_thumnail:"",
+    movie_link:"",    
+  },
+  {
+    id:,
+    movie_name:"",
+    movie_thumnail:"",
+    movie_link:"",    
+  },
+  {
+    id:13,
+    movie_name:"Spider-Man: Homecoming 2017",
+    movie_thumnail:"https://pics.filmaffinity.com/Spider_Man_Homecoming-336093112-large.jpg",
+    movie_link:"https://new1.gdtot.sbs/file/5746826719",    
+  },
+  {
+    id:12,
+    movie_name:"Doctor Strange 2016 ",
+    movie_thumnail:"https://ik.imagekit.io/9ifn2ouyo26/movies/doctor-strange/doctor-strange-box-art.jpg",
+    movie_link:"https://new1.gdtot.sbs/file/4952118195",    
   },
   {
     id:11,
