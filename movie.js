@@ -15,7 +15,7 @@ export default[
   {
     id:21,
     movie_name:"RRR Rise Roar Revolt 2022",
-    movie_thumnail:"",
+    movie_thumnail:"https://stat2.bollywoodhungama.in/wp-content/uploads/2019/03/RRR-2022.jpeg",
     movie_link:"",    
   },
   {
