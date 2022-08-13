@@ -21,7 +21,7 @@ export default[
   {
     id:68,
     movie_name:"Jumanji: Welcome to the Jungle",
-    movie_thumnail:"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e3f9b393257705.5e5ff618e4b07.jpg                            mmmmmmmm",
+    movie_thumnail:"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e3f9b393257705.5e5ff618e4b07.jpg",
     movie_link:"https://new2.gdtot.sbs/file/5132716295",    
   },
   {
