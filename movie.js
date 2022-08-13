@@ -7,16 +7,16 @@ export default[
     movie_link:"",    
   },
   {
-    id:,
+    id:59,
     movie_name:"",
     movie_thumnail:"",
     movie_link:"",    
   },
   {
-    id:,
-    movie_name:"",
-    movie_thumnail:"",
-    movie_link:"",    
+    id:58,
+    movie_name:"Surya The Soldier",
+    movie_thumnail:"https://static.digit.in/OTT/v2/images/tr:n-ott_home_crousel/surya-the-soldier-43156jpg",
+    movie_link:"https://new1.gdtot.sbs/file/1427863465",    
   },
   {
     id:57,
