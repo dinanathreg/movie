@@ -7,10 +7,28 @@ export default[
     movie_link:"",    
   },
   {
-    id:70,
+    id:,
     movie_name:"",
     movie_thumnail:"",
     movie_link:"",    
+  },
+  {
+    id:,
+    movie_name:"",
+    movie_thumnail:"",
+    movie_link:"",    
+  },
+  {
+    id:71,
+    movie_name:"",
+    movie_thumnail:"",
+    movie_link:"",    
+  },
+  {
+    id:70,
+    movie_name:"bala",
+    movie_thumnail:"https://image.tmdb.org/t/p/w185/yIDQRD4rPofIodn0b1Md2WyXzSD.jpg",
+    movie_link:"https://new2.gdtot.sbs/file/1112692765",    
   },
   {
     id:69,
